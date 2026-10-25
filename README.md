@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-dark-fantasy.png" width="100%" alt="Matias La Rocca - Software Engineer" />
+  <img src="./assets/ruinas_góticas_bajo_la_luna.png" width="100%" alt="Matias La Rocca - Software Engineer" />
   <br /><br />
   <strong>Software Engineer · Web Scraping · Performance & Automation</strong>
   <br />
