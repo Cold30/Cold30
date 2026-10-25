@@ -1,72 +1,113 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Matias — Software Engineering, Performance & Automation" />
+  <img src="./assets/banner.svg" width="100%" alt="Matias La Rocca — Software Engineer, Web Scraping, Performance & Automation" />
   <br /><br />
-  <strong>Software Engineer · Performance & Automation · AI Engineering</strong>
+  <strong>Software Engineer · Web Scraping · Performance & Automation</strong>
   <br />
-  <sub>Building reliable systems, improving developer workflows, and exploring practical AI.</sub>
-  <br />
-  <sub>Construyendo sistemas confiables, optimizando flujos de desarrollo y explorando aplicaciones reales de IA.</sub>
+  <sub>Building resilient systems, solving real-world problems, and continuously learning new technologies.</sub><br />
+  <sub>Construyendo sistemas resilientes, resolviendo problemas reales y aprendiendo nuevas tecnologías de forma constante.</sub>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/matias-la-rocca-b21189201/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://github.com/Cold30"><img src="https://img.shields.io/badge/GitHub-Cold30-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
 
-### 👋 About me · Sobre mí
+### ⚔️ About me · Sobre mí
 
-**EN** 🇬🇧
+**EN 🇬🇧**
 
-I'm Matias, a software engineer based in Argentina, working at the intersection of **system performance, backend engineering, and automation**. I enjoy improving the way software is built and operated—from developer tooling and architectural decisions to practical uses of AI.
+Hi, I'm **Matias La Rocca**, a software engineer from Argentina with experience in **web scraping, backend-oriented problem solving, automation and system performance**.
 
-I'm currently expanding my skills in **AI Engineering**, with a focus on **Python, software design, and intelligent workflows**.
+My programming journey started in **2016**, at a technical high school specializing in Informatics, where I learned **C++**, algorithms and the foundations of problem solving. That curiosity has stayed with me ever since.
 
-**ES** 🇦🇷
+Over the years, I've built and supported **data extraction workflows**, **internal tools**, **automation solutions** and **performance-oriented improvements**. I also worked as a **Team Leader / Project Leader**, coordinating technical work, onboarding colleagues, mentoring teammates and improving team processes.
 
-Soy Matías, desarrollador de software de Argentina, con foco en **performance de sistemas, desarrollo backend y automatización**. Me interesa mejorar cómo se desarrolla y opera el software: desde herramientas para equipos técnicos y decisiones de arquitectura hasta aplicaciones prácticas de inteligencia artificial.
+Today I focus on **reliable systems, developer workflows and practical automation** while deepening my knowledge of **Python, software design and AI Engineering**.
 
-Actualmente estoy profundizando mis conocimientos en **AI Engineering**, especialmente en **Python, diseño de software y flujos inteligentes**.
+I believe the right technology is the one that helps solve the problem. I'm always willing to learn something new to understand a challenge properly.
 
-### 🛠️ Technologies · Tecnologías
+**ES 🇦🇷**
 
-**Engineering / Experiencia y herramientas**
+¡Hola! Soy **Matías La Rocca**, desarrollador de software de Argentina con experiencia en **web scraping, resolución de problemas orientada a backend, automatización y performance de sistemas**.
 
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance-111827?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-111827?style=flat-square)
+Mi camino en programación empezó en **2016**, en una escuela técnica en informática, con **C++**, algoritmos y fundamentos de resolución de problemas. Desde entonces, la curiosidad por entender y mejorar sistemas es una constante.
 
-**Learning & building / Aprendiendo y construyendo**
+Durante mi recorrido desarrollé y mantuve **flujos de extracción de datos**, **herramientas internas**, **automatizaciones** y **mejoras orientadas a performance**. También me desempeñé como **Team Leader / Project Leader**, coordinando trabajo técnico, capacitando a nuevos integrantes, acompañando al equipo y mejorando procesos.
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-![AI Engineering](https://img.shields.io/badge/AI_Engineering-111827?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=flat-square)
+Actualmente me enfoco en **sistemas confiables, herramientas para desarrolladores y automatización práctica**, mientras profundizo en **Python, diseño de software y AI Engineering**.
 
-### 🔭 Current focus · En qué estoy trabajando
+Creo que la mejor tecnología es la que permite resolver el problema. No tengo miedo de aprender lo que haga falta para comprender un desafío y encontrar una buena solución.
 
-- **Performance & developer experience** — tooling, automation and architectural improvements.  
-  **Performance y experiencia de desarrollo** — herramientas, automatización y mejoras de arquitectura.
-- **AI Engineering** — learning to design and build practical AI-powered applications.  
-  **Ingeniería de IA** — aprendiendo a diseñar y construir aplicaciones reales con IA.
-- **Python & software design** — writing maintainable, testable code.  
-  **Python y diseño de software** — desarrollando código mantenible y testeable.
+### 🗡️ What I do · Qué hago
 
-### 📌 Projects · Proyectos
+| Focus / Área | What I bring · Qué aporto |
+| --- | --- |
+| **Web Scraping & Data Extraction** | Scraping workflows, API integrations and reliable data collection · Flujos de scraping, integraciones API y extracción confiable |
+| **Performance & Automation** | Internal tools, workflow optimization and developer experience · Herramientas internas, optimización de procesos y experiencia de desarrollo |
+| **Backend Engineering** | Practical, maintainable solutions and architectural thinking · Soluciones mantenibles y criterio arquitectónico |
+| **Technical Leadership** | Onboarding, mentoring, coordination and knowledge sharing · Capacitación, acompañamiento, coordinación y transferencia de conocimiento |
 
-I'm building a collection of practical, well-documented projects. Public repositories will be featured here as they're ready.
+### 🛠️ Stack · Tecnologías
 
-Estoy armando una colección de proyectos reales, con código y documentación técnica. Voy a destacar los repositorios públicos cuando estén listos.
+**Languages · Lenguajes**
 
-> **My approach / Mi enfoque:** solve a real problem, explain design decisions, document trade-offs, and make the result reproducible.  
-> Resolver problemas concretos, explicar decisiones de diseño, documentar compromisos técnicos y facilitar la reproducción del proyecto.
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=3776AB)
+![C++ Foundations](https://img.shields.io/badge/C%2B%2B-Foundations-171717?style=flat-square&logo=cplusplus&logoColor=00599C)
+
+**Engineering & Automation · Ingeniería y automatización**
+
+![Docker](https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Exploring-171717?style=flat-square&logo=githubactions&logoColor=2088FF)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Exploring-171717?style=flat-square)
+
+**Observability · Observabilidad**
+
+![Grafana](https://img.shields.io/badge/Grafana-171717?style=flat-square&logo=grafana&logoColor=F46800)
+![Datadog](https://img.shields.io/badge/Datadog-171717?style=flat-square&logo=datadog&logoColor=632CA6)
+
+**Cloud · Nube**
+
+![AWS](https://img.shields.io/badge/AWS-171717?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-171717?style=flat-square)
+![S3](https://img.shields.io/badge/S3-171717?style=flat-square)
+![Lambda](https://img.shields.io/badge/Lambda-171717?style=flat-square)
+
+**Growing · En crecimiento**
+
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-Learning-171717?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Learning-171717?style=flat-square)
+![Software Design](https://img.shields.io/badge/Software_Design-171717?style=flat-square)
+
+### 🔥 Current focus · Foco actual
+
+- **Engineering better workflows** · Mejorar flujos de trabajo, herramientas internas y automatizaciones.
+- **Reliability and performance** · Optimizar sistemas y abordar problemas de performance.
+- **Python and software design** · Profundizar en Python, testing y diseño de software.
+- **Practical AI Engineering** · Aprender y construir aplicaciones de IA con foco en problemas reales.
+
+### 📜 Featured work · Proyectos destacados
+
+I'm preparing a collection of **public, documented projects** showcasing automation, scraping, backend engineering and AI experiments.
+
+Estoy preparando **proyectos públicos y documentados** sobre automatización, scraping, backend y experimentos con IA.
+
+*Private projects and proprietary work stay private. / Los proyectos privados y el trabajo propietario se mantienen privados.*
 
 ### 🤝 Let's connect · Conectemos
 
-- 💬 Open to exchanging ideas about **backend, system performance, automation, and AI**.  
-  Abierto a conversar sobre **backend, performance, automatización e inteligencia artificial**.
-- 📂 Explore my work: [github.com/Cold30](https://github.com/Cold30)
+- [LinkedIn — Matias La Rocca](https://www.linkedin.com/in/matias-la-rocca-b21189201/)
+- [GitHub — Cold30](https://github.com/Cold30)
+
+Open to discussing web scraping, backend engineering, performance, automation and AI.  
+Abierto a conversar sobre web scraping, backend, performance, automatización e IA.
 
 ---
 
 <div align="center">
-  <sub>Keep building. Keep learning. · Seguir construyendo. Seguir aprendiendo.</sub>
+  <sub>⚔️ Keep building. Keep learning. Keep solving.</sub><br/>
+  <sub>Seguir construyendo. Seguir aprendiendo. Seguir resolviendo.</sub>
 </div>
